@@ -5,5 +5,5 @@
 * 1080x1920
 * Atleast 7 videos
 
-If you want less videos or change anything you can change it in the [main.py](./main.py)  
+If you want less videos or change anything you can change it in the [main.py](../main.py)  
 #### Probably there will be 7 videos in the release
