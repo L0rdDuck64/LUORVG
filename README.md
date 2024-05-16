@@ -29,7 +29,9 @@ Also edit the praw configs client id and client secret at line 16 by your app cl
 
 ## Basics
 
-Run main.py and select the options to generate the video, exported videos go to video-parts folder.
+Run main.py and select the options to generate the video, exported videos go to video_parts folder.  
+
+There will be some videos in bgtemps folder, but if you wanna add them manually check [videos.md](./bgtemps/videos.md)  
 
 ## Downloading
 
