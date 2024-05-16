@@ -10,6 +10,7 @@ Supports shorts video generation
 Made in python  
 Generator languages: pt-br  
 Uses moviepy  
+The file [save.txt](./save.txt) is the video counter, you can just edit it to change the video number or use the option to reset it when running the program.
 
 #### Maybe you want to change the codec to nvenc_h264 in [main.py](./main.py) if you have a nvidia GPU for faster encoding
 
@@ -37,7 +38,7 @@ There will be some videos in bgtemps folder, but if you wanna add them manually 
 
 Just download from releases I think.
 
-## Commom issues
+## Common issues
 
 #### Why Im getting a error about resizing a ImageClip?
 
