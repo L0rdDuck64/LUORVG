@@ -57,4 +57,5 @@ Since LUORVG is pretty incomplete and it needs more features, Im planning doing 
 * A GUI
 * A GitHub Page
 * More languages(Not confirmed yet)
-* And much more!(Im lazy to describe everything here and there is somethings that I didn't confirmed yet)
+* And much more!(Im lazy to describe everything here and there is somethings that I didn't confirmed yet)  
+[LDRVG](https://github.com/L0rdDuck64/LDRVG) Repository
