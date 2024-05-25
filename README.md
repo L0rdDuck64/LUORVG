@@ -54,4 +54,7 @@ Since LUORVG is pretty incomplete and it needs more features, Im planning doing 
 * Option to choose a custom subreddit
 * Large videos generation
 * Automate video type by story size
+* A GUI
+* A GitHub Page
+* More languages(Not confirmed yet)
 * And much more!(Im lazy to describe everything here and there is somethings that I didn't confirmed yet)
